@@ -1,0 +1,5 @@
+?? dia02/ - aqui hay una carpeta es nueva.
+
+A  dia02/colores.txt - aqui que esta listo para enviarlo con el proximo commit.
+
+M dia02/colores.txt - aqui que se realizaron cambio y no se han subido a la nube.
